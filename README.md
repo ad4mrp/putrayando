@@ -4,6 +4,4 @@ I am a mechanical engineering student interested in machine learning and data an
 
 Currently learning MATLAB and Python.
 
-Contact me!
-- [LinkedIn](https://www.linkedin.com/in/adam-putrayando/)
-- [Instagram](https://www.instagram.com/adamrp/)
+Contact me: adam.putrayando@gmail.com
